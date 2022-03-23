@@ -5,7 +5,7 @@ A partial mockup of Lodgify hotel management system with React
 
 1. Download and install node.js from https://nodejs.org/
 
-2. In a terminal, run 'npm install' to install node modules.
+2. In a terminal, move to the project folder and run 'npm install' to install node modules.
 
 3. In json-server folder, run 'json-server db.json' to start a json-server
    ( If encountered privilege issue, run 'Set-ExecutionPolicy RemoteSigned' with administrator permission)
