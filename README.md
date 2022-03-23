@@ -14,6 +14,9 @@ A partial mockup of Lodgify hotel management system with React
 
 <p align="center">
   <img src="https://github.com/tix123/Hotel-Reservation-System-Lodgify-Mockup-React/blob/master/screenshot/Screenshot_01.jpg">
+ </p>
+
+<p align="center">
   <img src="https://github.com/tix123/Hotel-Reservation-System-Lodgify-Mockup-React/blob/master/screenshot/Screenshot_02.jpg">
 </p>
 <br>
