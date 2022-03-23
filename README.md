@@ -1,5 +1,5 @@
 # Hotel Reservation System
-> A partial mockup of Lodgify hotel management system with React
+A partial mockup of Lodgify hotel management system with React
 
 ## To run this project:
 
