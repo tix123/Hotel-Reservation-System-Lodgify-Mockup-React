@@ -1,6 +1,6 @@
-## Lodgify mockup with React
+# Lodgify mockup with React
 
-To run this project:
+## To run this project:
 
 1. Download and install node.js from https://nodejs.org/
 
