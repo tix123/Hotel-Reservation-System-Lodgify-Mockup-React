@@ -1,4 +1,5 @@
-# Lodgify mockup with React
+# Hotel Reservation System
+Lodgify mockup with React
 
 ## To run this project:
 
