@@ -1,7 +1,7 @@
 # Hotel Reservation System
 A partial mockup of Lodgify hotel management system with React
 
-## To run this project:
+## To run this project
 
 1. Download and install node.js from https://nodejs.org/
 
@@ -11,6 +11,8 @@ A partial mockup of Lodgify hotel management system with React
    ( If encountered privilege issue, run 'Set-ExecutionPolicy RemoteSigned' with administrator permission)
 
 4. Open another terminal to run 'npm start' to start this project.
+
+## Screenshots
 
 <p align="center">
   <img src="https://github.com/tix123/Hotel-Reservation-System-Lodgify-Mockup-React/blob/master/screenshot/Screenshot_01.jpg">
